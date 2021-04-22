@@ -1,0 +1,1 @@
+export JAVA_HOME=/home/robertdiers/Documents/tools/java/openjdk-11.0.10_9
